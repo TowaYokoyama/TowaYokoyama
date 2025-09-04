@@ -1,22 +1,13 @@
-<!-- ========================= -->
-<!-- 🚀 Cyber / Neon GitHub Profile -->
-<!-- ========================= -->
+# 🌌 Cyber Profile of Towa 💻
 
-<!-- 背景的にGIFをトップに -->
-<p align="center">
-  <img src="https://media.giphy.com/media/L0nE4gGxq1uC6/giphy.gif" width="100%" alt="Cyber Background"/>
-</p>
-
-# 💻 Hi there, I'm **Towa** 👋
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=500&color=39FF14&center=true&width=700&lines=Welcome+to+my+Cyber+Profile!;Full-stack+Developer;React%2C+Next.js+%26+AI;Let's+build+something+awesome!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=36&duration=2500&pause=500&color=39FF14&center=true&vCenter=true&width=800&lines=Welcome+to+my+Cyber+Profile!;Full-stack+Developer;React%2C+Next.js%2C+AI;Let's+build+something+awesome!)](https://git.io/typing-svg)
 
 ---
 
-### 🎯 Hobbies
-![Soccer](https://img.shields.io/badge/Soccer-1DA1F2?style=for-the-badge&logo=football&logoColor=white)
-![Coffee](https://img.shields.io/badge/Coffee-FF5733?style=for-the-badge&logo=coffeescript&logoColor=white)
-![Baseball](https://img.shields.io/badge/Baseball-FAB005?style=for-the-badge&logoColor=white)
+### 🔥 favorite
+![Soccer](https://img.shields.io/badge/Soccer-1DE9B6?style=for-the-badge&logo=football&logoColor=white)
+![Coffee](https://img.shields.io/badge/Coffee-FF6D00?style=for-the-badge&logo=coffeescript&logoColor=white)
+![Baseball](https://img.shields.io/badge/Baseball-FF1744?style=for-the-badge&logoColor=white)
 
 ---
 
@@ -38,20 +29,23 @@
 ### 📊 GitHub Stats
 ![Towa's GitHub stats](https://github-readme-stats.vercel.app/api?username=TowaYokoyama&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TowaYokoyama&layout=compact&theme=tokyonight)
-
-![GitHub Activity Graph](https://readme-activity-graph.vercel.app/graph?username=TowaYokoyama&theme=react-dark&hide_border=true&area=true)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=TowaYokoyama&theme=react-dark&hide_border=true&area=true)
 
 ---
 
 ### ⚡ ASCII Cyber Art
- ██████╗ ██╗   ██╗██╗    ██╗ █████╗ 
-██╔════╝ ██║   ██║██║    ██║██╔══██╗
-██║  ███╗██║   ██║██║ █╗ ██║███████║
-██║   ██║██║   ██║██║███╗██║██╔══██║
-╚██████╔╝╚██████╔╝╚███╔███╔╝██║  ██║
- ╚═════╝  ╚═════╝  ╚══╝╚══╝ ╚═╝  ╚═╝
+
+██████╗ ██╗ ██╗██╗ ██╗ █████╗
+██╔════╝ ██║ ██║██║ ██║██╔══██╗
+██║ ███╗██║ ██║██║ █╗ ██║███████║
+██║ ██║██║ ██║██║███╗██║██╔══██║
+╚██████╔╝╚██████╔╝╚███╔███╔╝██║ ██║
+╚═════╝ ╚═════╝ ╚══╝╚══╝ ╚═╝ ╚═╝
 
 
 ---
 
-> ⚡ Neon vibes & Cyber energy 💻🌌
+### 🌌 Neon & Cyber Vibes
+[![Neon Badge](https://img.shields.io/badge/Online-39FF14?style=for-the-badge&logo=github)](https://github.com/TowaYokoyama)
+[![Cyber Badge](https://img.shields.io/badge/Developer-FF00FF?style=for-the-badge&logo=github)](https://github.com/TowaYokoyama)
+[![AI Badge](https://img.shields.io/badge/AI-00FFFF?style=for-the-badge&logo=github)](https://github.com/TowaYokoyama)
