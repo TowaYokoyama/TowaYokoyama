@@ -5,6 +5,12 @@ Hi, I'm **Towa** 👋
 
 ---
 
+### 🎯 Hobbies
+![Soccer](https://img.shields.io/badge/Soccer-1DA1F2?style=for-the-badge&logo=football&logoColor=white)
+![Coffee](https://img.shields.io/badge/Coffee-6F4E37?style=for-the-badge&logo=coffeescript&logoColor=white)
+![Baseball](https://img.shields.io/badge/Baseball-FAB005?style=for-the-badge&logoColor=white)
+---
+
 ### 🛠️ Tech Stack
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=for-the-badge)
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=nextdotjs&logoColor=white&style=for-the-badge)
@@ -15,6 +21,8 @@ Hi, I'm **Towa** 👋
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?logo=tailwind-css&logoColor=white&style=for-the-badge)
 ![Flutter](https://img.shields.io/badge/-Flutter-02569B?logo=flutter&logoColor=white&style=for-the-badge)
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=for-the-badge)
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=black&style=for-the-badge)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws&logoColor=white&style=for-the-badge)
 
 ---
 
