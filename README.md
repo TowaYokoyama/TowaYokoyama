@@ -6,8 +6,10 @@ Hi, I'm **Towa** 👋
 ---
 
 ### 🎯 Hobbies
-![Soccer](⚽)
+![Soccer](https://img.shields.io/badge/Soccer-1DA1F2?style=for-the-badge&logo=football&logoColor=white)
 ![Coffee](https://img.shields.io/badge/Coffee-6F4E37?style=for-the-badge&logo=coffeescript&logoColor=white)
+![Baseball](https://img.shields.io/badge/Baseball-FAB005?style=for-the-badge&logoColor=white)
+
 
 ---
 
