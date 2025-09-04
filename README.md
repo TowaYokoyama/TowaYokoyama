@@ -1,4 +1,4 @@
-# 🚀 Welcome to My Universe 🌌  
+# 🚀 Nice to meet you！  
 Hi, I'm **Towa** 👋  
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Welcome+to+my+profile!;Full-stack+Developer;Loves+React%2C+Next.js+%26+AI;Let's+build+something+awesome!)](https://git.io/typing-svg)
