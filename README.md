@@ -1,4 +1,4 @@
-# 🌌 Cyber Profile of Towa 💻
+# I'm Towa 💻
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=36&duration=2500&pause=500&color=39FF14&center=true&vCenter=true&width=800&lines=Welcome+to+my+Cyber+Profile!;Full-stack+Developer;React%2C+Next.js%2C+AI;Let's+build+something+awesome!)](https://git.io/typing-svg)
 
@@ -30,18 +30,6 @@
 ![Towa's GitHub stats](https://github-readme-stats.vercel.app/api?username=TowaYokoyama&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TowaYokoyama&layout=compact&theme=tokyonight)
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=TowaYokoyama&theme=react-dark&hide_border=true&area=true)
-
----
-
-### ⚡ ASCII Cyber Art
-
-██████╗ ██╗ ██╗██╗ ██╗ █████╗
-██╔════╝ ██║ ██║██║ ██║██╔══██╗
-██║ ███╗██║ ██║██║ █╗ ██║███████║
-██║ ██║██║ ██║██║███╗██║██╔══██║
-╚██████╔╝╚██████╔╝╚███╔███╔╝██║ ██║
-╚═════╝ ╚═════╝ ╚══╝╚══╝ ╚═╝ ╚═╝
-
 
 ---
 
