@@ -25,6 +25,12 @@
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws&logoColor=white&style=for-the-badge)
 
 ---
+---
+
+### 📜 Certifications
+![基本情報技術者](https://img.shields.io/badge/基本情報技術者-2962FF?style=for-the-badge&logo=gnometerminal&logoColor=white)
+
+---
 
 ### 📊 GitHub Stats
 ![Towa's GitHub stats](https://github-readme-stats.vercel.app/api?username=TowaYokoyama&show_icons=true&theme=radical)
