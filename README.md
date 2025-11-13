@@ -24,7 +24,7 @@
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=for-the-badge)
 ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=black&style=for-the-badge)
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws&logoColor=white&style=for-the-badge)
-
+![Swift](https://img.shields.io/badge/-Swift-F05138?logo=swift&logoColor=white&style=for-the-badge)
 
 ---
 
