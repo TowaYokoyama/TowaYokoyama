@@ -7,8 +7,6 @@
 ### 🔥 favorite
 ![Soccer](https://img.shields.io/badge/Soccer-1DE9B6?style=for-the-badge&logo=football&logoColor=white)
 ![Coffee](https://img.shields.io/badge/Coffee-FF6D00?style=for-the-badge&logo=coffeescript&logoColor=white)
-![Baseball](https://img.shields.io/badge/Baseball-FF1744?style=for-the-badge&logoColor=white)
-
 ---
 
 ### 🛠️ Tech Stack
@@ -21,11 +19,10 @@
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge)
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?logo=tailwind-css&logoColor=white&style=for-the-badge)
 ![Flutter](https://img.shields.io/badge/-Flutter-02569B?logo=flutter&logoColor=white&style=for-the-badge)
+![Swift](https://img.shields.io/badge/-Swift-F05138?logo=swift&logoColor=white&style=for-the-badge)
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=for-the-badge)
 ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=black&style=for-the-badge)
-![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws&logoColor=white&style=for-the-badge)
 ![GCP](https://img.shields.io/badge/-GCP-4285F4?logo=google-cloud&logoColor=white&style=for-the-badge)
-![Swift](https://img.shields.io/badge/-Swift-F05138?logo=swift&logoColor=white&style=for-the-badge)
 
 ---
 
