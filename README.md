@@ -28,7 +28,6 @@
 
 ### 📜 Certifications
 ![基本情報技術者](https://img.shields.io/badge/基本情報技術者-2962FF?style=for-the-badge&logo=gnometerminal&logoColor=white)
-![TOEIC 750](https://img.shields.io/badge/TOEIC-750-blue?style=for-the-badge&logo=bookstack&logoColor=white)
 
 ---
 
