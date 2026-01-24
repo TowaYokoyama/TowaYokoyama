@@ -1,9 +1,5 @@
 # I'm Towa 💻
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=36&duration=2500&pause=500&color=39FF14&center=true&vCenter=true&width=800&lines=Welcome+to+my+Cyber+Profile!;Full-stack+Developer;React%2C+Next.js%2C+AI;Let's+build+something+awesome!)](https://git.io/typing-svg)
-
----
-
 ### 🔥 favorite
 ![Soccer](https://img.shields.io/badge/Soccer-1DE9B6?style=for-the-badge&logo=football&logoColor=white)
 ![Coffee](https://img.shields.io/badge/Coffee-FF6D00?style=for-the-badge&logo=coffeescript&logoColor=white)
