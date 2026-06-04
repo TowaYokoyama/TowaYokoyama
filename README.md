@@ -33,8 +33,3 @@
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=TowaYokoyama&theme=react-dark&hide_border=true&area=true)
 
 ---
-
-### 🌌 Neon & Cyber Vibes
-[![Neon Badge](https://img.shields.io/badge/Online-39FF14?style=for-the-badge&logo=github)](https://github.com/TowaYokoyama)
-[![Cyber Badge](https://img.shields.io/badge/Developer-FF00FF?style=for-the-badge&logo=github)](https://github.com/TowaYokoyama)
-[![AI Badge](https://img.shields.io/badge/AI-00FFFF?style=for-the-badge&logo=github)](https://github.com/TowaYokoyama)
